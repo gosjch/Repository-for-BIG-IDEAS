@@ -1,6 +1,14 @@
 ## Code below 
 
 name = input("What is your name?")
+##instantiating name variable
 age = input("How old are you?")
+##instantiating age variable
 print("Hello, " + name + ". You are " + age + " years old.")
+##printing the greeting sentence
+
+
+
+
+
 
